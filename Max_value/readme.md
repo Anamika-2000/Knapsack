@@ -6,7 +6,7 @@
 This program solves the 0-1 Knapsack Problem using a naive recursive implementation. It calculates the maximum value that can be put into a knapsack of a given capacity, considering the values and weights of a set of objects.
 
 <p align="center">
-    <a href="https://github.com/Anamika-2000/Knapsack"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Anamika-2000/Knapsack/tree/master/Max_value"><strong>Explore the docs »</strong></a>
 <br>
 <br>
     <a href="https://github.com/Anamika-2000/Knapsack/issues/new">View Demo</a>
